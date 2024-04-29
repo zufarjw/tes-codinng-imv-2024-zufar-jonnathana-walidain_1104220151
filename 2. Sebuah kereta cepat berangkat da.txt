@@ -1,0 +1,10 @@
+2. Sebuah kereta cepat berangkat dari stasiun Bandung ke stasiun Jakarta dengan kecepatan konstan. Waktu tempuh kereta cepat adalah 30 menit. Jika kereta berjalan 50km/jam lebih cepat, waktu tempuh berkurang 10 menit. Berapakah jarak antara stasiun Bandung dan Jakarta? Jelaskan sesederhana mungkin! [5 POINTS]
+
+Dik : 
+waktu tempuh = t = 30 menit
+jika kecepatan kereta v' = 50km/jam maka t'=20 menit
+berapakah jarak antar bandung ke jakarta?
+
+jarak = 50kmm/jam x 20 menit
+= 50km/60 menit x 20 menit
+=50km/3 = 16.67 km

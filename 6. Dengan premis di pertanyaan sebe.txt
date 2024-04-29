@@ -1,0 +1,19 @@
+6. Dengan premis di pertanyaan sebelumnya, siapa orang yang paling sedikit tugasnya? [5 POINTS]
+Premis :
+Chaca lebih bahagia daripada Rey, meskipun tugasnya tidak sebanyak Rey
+Prita tidak sebahagia Rey dan tugasnya tidak sebanyak Rey maupun Chaca
+Yunjin lebih bahagia daripada Chaca, tetapi tugasnya lebih banyak dari Chaca
+
+ 
+misal
+Chaca = C
+Rey = R
+Prita = P
+Yunjin = Y
+
+jawab : dalam aspek tugas
+C < R
+P < R dan C
+Y > C
+
+maka tugas paling sedikit  P , Prita
